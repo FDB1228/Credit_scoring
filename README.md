@@ -2,7 +2,7 @@
 
 Учебный проект по соревнованию Kaggle [alfa-bank-pd-credit-history](https://www.kaggle.com/competitions/alfa-bank-pd-credit-history): по кредитной истории клиента из БКИ предсказать вероятность дефолта (PD).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<ВАШ_НИК>/<НАЗВАНИЕ_РЕПОЗИТОРИЯ>/blob/main/notebooks/credit_scoring.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FDB1228/Credit_scoring/blob/main/notebooks/credit_scoring.ipynb)
 
 ## О задаче
 
