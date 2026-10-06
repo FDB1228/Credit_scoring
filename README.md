@@ -134,6 +134,3 @@ Python, pandas, NumPy, scikit-learn, LightGBM, CatBoost, Optuna, SHAP, matplotli
 * Отбор признаков и более тщательный подбор гиперпараметров.
 * Стекинг вместо простого блендинга.
 
-## Автор
-
-<Имя Фамилия>, <ссылка на GitHub / Telegram / LinkedIn>
